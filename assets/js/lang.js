@@ -2,7 +2,7 @@ const langArr = {
     "unit":{
         'ru':"Канференсия",
         'uz':'Conference',
-        'de':'Conf'
+        'de':'Bildungskonferenz'
     },
     '1':{
         'ru':"Дом",
@@ -39,15 +39,20 @@ const langArr = {
         'uz':'Hamkorlar',
         'de':'Partner'
     },
+    '8':{
+        'ru':"Контакт",
+        'uz':'Aloqa',
+        'de':'Kontakt'
+    },
     '9':{
-        'ru':"99999",
+        'ru':"Преподавание немецкого языка в эпоху цифровых технологий",
         'uz':'Raqamli Texnologiyalar davrida Nemis tilini o\'qitish',
-        'de':'99999'
+        'de':'DAF-UNTERRICHT IM DIGITALEN ZEITALTER'
     },
     '10':{
-        'ru':"99999",
-        'uz':'8-9 Oktabr, Toshkent shahar, Amir Temur ko\'chasi 42-uy',
-        'de':'99999'
+        'ru':"8-9 Октябрь, Онлайн",
+        'uz':'8-9 Oktabr, Onlayn',
+        'de':'8.-9. Oktober, Online'
     },
     '11':{
         'ru':"О конференции",
@@ -60,9 +65,9 @@ const langArr = {
         'de':'Über die Konferenz'
     },
     '13':{
-        'ru':"",
-        'uz':"Anjuman ta'limining barcha bosqichlarida nemis tilini uqitish jarayoni eng so'nggi tadqiqot tajribalari, shungindek, raqamli texnologiyalar soxasidagi ilg'or xorijiy va milliy tojribani jo'riy natijalarining o'zlari ichiga oladi",
-        'de':''
+        'ru':"Процесс обучения немецкому языку на всех этапах конференционного обучения включает в себя результаты новейшего исследовательского опыта, а также внедрение передового зарубежного и отечественного опыта в области цифровых технологий.",
+        'uz':"Anjuman ta'limining barcha bosqichlarida nemis tilini o'qitish jarayoni eng so'nggi tadqiqot tajribalari, shungindek, raqamli texnologiyalar soxasidagi ilg'or xorijiy va milliy tajribani jo'riy natijalarini o'z ichiga oladi",
+        'de':"Die Aufgaben der Konferenz sind: Reflexion relevanter Themen und Probleme der modernen Fremdsprachenpädagogik- und Methodik. Die Konferenz präsentiert die Ergebnisse der Einführung von neuesten Lehrprogrammen sowie fortgeschrittene ausländische und inländische Erfahrungen im Bereich der digitalen Technologien im DaF-Unterricht in allen Bildungsstufen."
     },
     '14':{
         'ru':"Где",
@@ -70,9 +75,9 @@ const langArr = {
         'de':'Woher'
     },
     '15':{
-        'ru':"",
-        'uz':"Toshkent shahar, Amir Temur ko'chasi 42-uy",
-        'de':''
+        'ru':"Онлайн",
+        'uz':"Onlayn",
+        'de':'Online'
     },
     '16':{
         'ru':"Когда",
@@ -80,49 +85,49 @@ const langArr = {
         'de':"Wann"
     },
     '17':{
-        'ru':"",
+        'ru':"Пятница - суббота, 8-9 октября",
         'uz':"Juma - Shanba, 8-9 Oktabr",
-        'de':""
+        'de':"Freitag - Samstag, 8.-9. Oktober"
     },
     '18':{
         'ru':"Спикеры мероприятия",
         'uz':"Tadbir ma'ruzachilari",
-        'de':""
+        'de':"Sprecher der Veranstaltung"
     },
     '19':{
         'ru':"Наши спикеры",
         'uz':"Bizning ma'ruzachilar",
-        'de':""
+        'de':"Unsere Referenten"
     },
     '20':{
-        'ru':"",
-        'uz':"Theme-1",
-        'de':""
+        'ru':"Требования урока немецкого языка – цифровизация",
+        'uz':"Nemis tili darslarida qoʼyiladigan talablar - Raqamlashtirish",
+        'de':"Herausforderungen des DaF-Unterrichts - die Digitalisierung"
     },
     '21':{
-        'ru':"",
-        'uz':"Theme-2",
-        'de':""
+        'ru':"Современные обучающие программы и цифровые технологии обучения для урока немецкого языка в дошкольном, начальном, среднем и высшем образовании",
+        'uz':"Bogʼcha-maktab-oliy taʼlim tizimida zamonaviy taʼlim dasturlari va raqamli texnoligiyalari",
+        'de':"Moderne Lehrprogramme und digitale Technologien für den Deutschunterricht im Elementar-, Primar-, Sekundarbereich sowie in der Hochschulbildung"
     },
     '22':{
-        'ru':"",
-        'uz':"Theme-2",
-        'de':""
+        'ru':"Научная работа",
+        'uz':"Ilmiy ish",
+        'de':"Wissenschaftliches Arbeiten"
     },
     '23':{
-        'ru':"",
-        'uz':"Theme-3",
-        'de':""
+        'ru':"Обзор цифрового формата экзамена TestDaF",
+        'uz':"TestDaF raqamli imtihon formatining yangi ko'rinishi",
+        'de':"Der digitale TestDaF im Überblick "
     },
     '24':{
-        'ru':"",
-        'uz':"Theme-4",
-        'de':""
+        'ru':"Цифровые инструменты в онлайн-обучении",
+        'uz':"Onlayn o'qishning raqamli vositalari",
+        'de':"Digitale Werkzeuge im (Online-) Unterricht"
     },
     '25':{
-        'ru':"",
-        'uz':"Theme-5",
-        'de':""
+        'ru':"Литературно читать литературу",
+        'uz':"Adabiy o'qiladigan adabiyot",
+        'de':"Literatur literarisch lesen"
     },
     '26':{
         'ru':"Повестка дня",
@@ -132,37 +137,37 @@ const langArr = {
     '27':{
         'ru':"Наш план действий",
         'uz':"Bizning tadbirlar rejasi",
-        'de':""
+        'de':"Unser Aktionsplan"
     },
     '28':{
         'ru':"Первый день",
         'uz':"Birinchi kun",
-        'de':""
+        'de':"Tag 1"
     },
     '29':{
         'ru':"Второй день",
         'uz':"Ikkinchi kun",
-        'de':""
+        'de':"Tag 2"
     },
     '30':{
-        'ru':"",
+        'ru':"Адрес конференции",
         'uz':"Konferensiya manzili",
-        'de':""
+        'de':"Konferenzadresse"
     },
     '31':{
         'ru':"Информация об адресе конференции",
         'uz':"Konferensiya manzili haqida ma'lumot",
-        'de':""
+        'de':"Informationen zur Konferenzadresse"
     },
     '32':{
-        'ru':"",
-        'uz':"Toshkent shahar, Amir Temur ko'chasi 42-uy",
-        'de':""
+        'ru':"Онлайн",
+        'uz':"Onlayn",
+        'de':'Online'
     },
     '33':{
-        'ru':"",
-        'uz':"Anjuman ta'limining barcha bosqichlarida nemis tilini uqitish jarayoni eng so'nggi tadqiqot tajribalari, shungindek, raqamli texnologiyalar soxasidagi ilg'or xorijiy va milliy tojribani jo'riy natijalarining o'zlari ichiga oladi",
-        'de':""
+        'ru':"Процесс обучения немецкому языку на всех этапах конференционного обучения включает в себя результаты новейшего исследовательского опыта, а также внедрение передового зарубежного и отечественного опыта в области цифровых технологий.",
+        'uz':"Anjuman ta'limining barcha bosqichlarida nemis tilini o'qitish jarayoni eng so'nggi tadqiqot tajribalari, shungindek, raqamli texnologiyalar soxasidagi ilg'or xorijiy va milliy tajribani jo'riy natijalarini o'z ichiga oladi",
+        'de':"Die Aufgaben der Konferenz sind: Reflexion relevanter Themen und Probleme der modernen Fremdsprachenpädagogik- und Methodik. Die Konferenz präsentiert die Ergebnisse der Einführung von neuesten Lehrprogrammen sowie fortgeschrittene ausländische und inländische Erfahrungen im Bereich der digitalen Technologien im DaF-Unterricht in allen Bildungsstufen."
     },
     '34':{
         'ru':"Галерея",
@@ -170,15 +175,106 @@ const langArr = {
         'de':"Galerie"
     },
     '35':{
-        'ru':"",
+        'ru':"Вы можете увидеть наши мероприятия в нашей галерее",
         'uz':"Bizning galereyamizda bo'lib o'tgan tadbirlarimizni ko'rishingiz mumkin",
-        'de':""
+        'de':"Unsere Veranstaltungen finden Sie in unserer Galerie"
     },
     '36':{
         'ru':"Партнер",
         'uz':"Hamkorlar",
         'de':"Partner"
     },
+    '37':{
+        'ru':"Контакт",
+        'uz':"Biz bilan bog'lanish",
+        'de':"Kontakt"
+    },
+    '38':{
+        'ru':"Для информации",
+        'uz':"Murojaat uchun:",
+        'de':"für Anfragen"
+    },
+    '39':{
+        'ru':"Адрес",
+        'uz':"Manzil",
+        'de':"Die Anschrift"
+    },
+    '40':{
+        'ru':"Улица Амира Темура, 42",
+        'uz':"Amir Temur ko'chasi 42-uy",
+        'de':"Amir-Temur-Straße, 42"
+    },
+    '41':{
+        'ru':"Номер телефона",
+        'uz':"Telefon nomer",
+        'de':"Telefonnummer"
+    },
+    '42':{
+        'ru':"Эл. адрес",
+        'uz':"Elektron pochta",
+        'de':"Email"
+    },
+    '43':{
+        'ru':"Процесс обучения немецкому языку на всех этапах конференционного обучения включает в себя результаты новейшего исследовательского опыта, а также внедрение передового зарубежного и отечественного опыта в области цифровых технологий.",
+        'uz':"Anjuman ta'limining barcha bosqichlarida nemis tilini o'qitish jarayoni eng so'nggi tadqiqot tajribalari, shungindek, raqamli texnologiyalar soxasidagi ilg'or xorijiy va milliy tajribani jo'riy natijalarini o'z ichiga oladi.",
+        'de':"Die Aufgaben der Konferenz sind: Reflexion relevanter Themen und Probleme der modernen Fremdsprachenpädagogik- und Methodik. Die Konferenz präsentiert die Ergebnisse der Einführung von neuesten Lehrprogrammen sowie fortgeschrittene ausländische und inländische Erfahrungen im Bereich der digitalen Technologien im DaF-Unterricht in allen Bildungsstufen."
+    },
+    '44':{
+        'ru':"Полезные Ссылки",
+        'uz':"Foydali Havolalar",
+        'de':"Nützliche Links"
+    },
+    '45':{
+        'ru':"Goethe-Institut Usbekistan",
+        'uz':"Goethe-Institut Usbekistan",
+        'de':"Goethe-Institut Usbekistan"
+    },
+    '46':{
+        'ru':"Агентство",
+        'uz':"Agentlik",
+        'de':"Agentur"
+    },
+    '47':{
+        'ru':"DAAD",
+        'uz':"DAAD",
+        'de':"DAAD"
+    },
+    '48':{
+        'ru':"Cornelsen",
+        'uz':"Cornelsen",
+        'de':"Cornelsen"
+    },
+    '49':{
+        'ru':"Полезные Ссылки",
+        'uz':"Foydali Havolalar",
+        'de':"Nützliche Links"
+    },
+    '50':{
+        'ru':"Министерство высшего образования",
+        'uz':"Oliy ta'lim vazirligi",
+        'de':"Ministerium für Höhere Bildung"
+    },
+    '51':{
+        'ru':"Klett",
+        'uz':"Klett",
+        'de':"Klett"
+    },
+    '52':{
+        'ru':"Министерство народного образования",
+        'uz':"Xalq ta'lim vazirligi",
+        'de':"Ministerium für öffentliche Bildung"
+    },
+    '53':{
+        'ru':"Hueber",
+        'uz':"Hueber",
+        'de':"Hueber"
+    },
+    '54':{
+        'ru':"Контакт",
+        'uz':"Biz bilan bog'lanish",
+        'de':"Kontakt"
+    },
+    
     
 }
 
