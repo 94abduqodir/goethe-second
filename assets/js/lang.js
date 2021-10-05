@@ -406,6 +406,141 @@ const langArr = {
         'uz':"Kirish",
         'de':"Eintreten"
     },
+    '81':{
+        'ru':"Секция 1",
+        'uz':"1-Bo'lim",
+        'de':"Sektion 1"
+    },
+    '82':{
+        'ru':"Войти через Zoom",
+        'uz':"Zoom orqali kirish",
+        'de':"Mit Zoom"
+    },
+    '83':{
+        'ru':"Войти",
+        'uz':"Kirish",
+        'de':"Eintreten"
+    },
+    '84':{
+        'ru':"Литературно читать литературу",
+        'uz':"Adabiy o'qiladigan adabiyot",
+        'de':"Literatur literarisch lesen"
+    },
+    '85':{
+        'ru':"Цифровые инструменты в онлайн-обучении",
+        'uz':"Onlayn o'qishning raqamli vositalari",
+        'de':"Digitale Werkzeuge im (Online-) Unterricht."
+    },
+    '86':{
+        'ru':"Учите немецкий онлайн? Почему нет?",
+        'uz':"Nemis tilini onlayn o'rganasizmi? Nega yo'q?",
+        'de':"Deutsch online lernen? Warum nicht?"
+    },
+    '87':{
+        'ru':"Мультимедийные ресурсы школьных учебных центров Узбекистана",
+        'uz':"O'zbekistondagi maktab o'quv markazlarining multimediya resurslar",
+        'de':"Multimediale Ressourcen der Schullehrwerken in Usbekistan"
+    },
+    '88':{
+        'ru':"Секция 2",
+        'uz':"2-Bo'lim",
+        'de':"Sektion 2"
+    },
+    '89':{
+        'ru':"Войти через Zoom",
+        'uz':"Zoom orqali kirish",
+        'de':"Mit Zoom"
+    },
+    '90':{
+        'ru':"Войти",
+        'uz':"Kirish",
+        'de':"Eintreten"
+    },
+    '91':{
+        'ru':"Два зайца одним выстрелом или концепция CLIL в начальном образовании",
+        'uz':"",
+        'de':"Zwei Fliegen mit einer Klappe oder das CLIL-Konzept im Primarunterricht"
+    },
+    '92':{
+        'ru':"",
+        'uz':"",
+        'de':"Die Sonnenschule und PASCH"
+    },
+    '93':{
+        'ru':"",
+        'uz':"",
+        'de':"CLIL und DaF Unterricht in der Schule"
+    },
+    '94':{
+        'ru':"Секция 3",
+        'uz':"3-Bo'lim",
+        'de':"Sektion 3"
+    },
+    '95':{
+        'ru':"Войти через Zoom",
+        'uz':"Zoom orqali kirish",
+        'de':"Mit Zoom"
+    },
+    '96':{
+        'ru':"Войти",
+        'uz':"Kirish",
+        'de':"Eintreten"
+    },
+    '97':{
+        'ru':"",
+        'uz':"",
+        'de':"Internationalisierung der Berufsbildung, Berufe der Zukunft. Vorstellung des Bildungsprojekts „ProfiUni“"
+    },
+    '98':{
+        'ru':"",
+        'uz':"",
+        'de':"„Mein Beruf – meine Zukunft“ – Vorstellung des Portals"
+    },
+    '99':{
+        'ru':"",
+        'uz':"",
+        'de':"Berufssprache Deutsch"
+    },
+    '100':{
+        'ru':"",
+        'uz':"",
+        'de':"Arbeit in Tridem bei der Berufsorientierung in der Schule: Vorstellung der Projekte"
+    },
+    '101':{
+        'ru':"Секция 4",
+        'uz':"4-Bo'lim",
+        'de':"Sektion 4"
+    },
+    '102':{
+        'ru':"Войти через Zoom",
+        'uz':"Zoom orqali kirish",
+        'de':"Mit Zoom"
+    },
+    '103':{
+        'ru':"Войти",
+        'uz':"Kirish",
+        'de':"Eintreten"
+    },
+    '104':{
+        'ru':"Dhoch3 – учебные модули для подготовки учителей  немецкого языка в университетах мира",
+        'uz':"",
+        'de':"„Dhoch3 - Studienmodule für die Deutschlehrer-Ausbildung an Hochschulen weltweit“"
+    },
+    '105':{
+        'ru':"Научная работа.",
+        'uz':"Ilmiy ishlar.",
+        'de':"Wissenschaftliches Arbeiten."
+    },
+    '106':{
+        'ru':"«Региональные мобильные группы: цели и задачи»",
+        'uz':"Hududiy mobil guruhlar: maqsad va vazifalar",
+        'de':"“Regionale Mobilgruppen: Ziele und Aufgaben”"
+    },
+    '107':{
+        'ru':"",
+        'uz':"",
+        'de':"DLL Implementierung ins Curriculum der Hochschulen Usbekistans"
+    },
 }
 
 
