@@ -5,7 +5,7 @@ const langArr = {
         'de':'Bildungskonferenz'
     },
     '1':{
-        'ru':"Дом",
+        'ru':"Старт",
         'uz':'Bosh sahifa',
         'de':'Hauptseite'
     },
@@ -15,7 +15,7 @@ const langArr = {
         'de':'Über uns'
     },
     '3':{
-        'ru':"Разгаворшик",
+        'ru':"Референты",
         'uz':'Ma\'ruzachilar',
         'de':'Referenten'
     },
@@ -35,7 +35,7 @@ const langArr = {
         'de':'Galerie'
     },
     '7':{
-        'ru':"Партнер",
+        'ru':"Партнёры",
         'uz':'Hamkorlar',
         'de':'Partner'
     },
@@ -50,7 +50,7 @@ const langArr = {
         'de':'DAF-UNTERRICHT IM DIGITALEN ZEITALTER'
     },
     '10':{
-        'ru':"8-9 Октябрь, Онлайн",
+        'ru':"дата- 8-9 октября, Онлайн",
         'uz':'8-9 Oktabr, Onlayn',
         'de':'8.-9. Oktober, Online'
     },
@@ -65,14 +65,14 @@ const langArr = {
         'de':'Über die Konferenz'
     },
     '13':{
-        'ru':"Процесс обучения немецкому языку на всех этапах конференционного обучения включает в себя результаты новейшего исследовательского опыта, а также внедрение передового зарубежного и отечественного опыта в области цифровых технологий.",
+        'ru':"Целью конференции являются отражение актуальной тематики и проблематики современной педагогики, презентация новейших технических и учебно-методических достижений в сфере образования. В рамках конференции будут представлены результаты внедрения новейших исследований, а также передового зарубежного и отечественного опыта в области цифровых технологий в процесс обучения немецкому языку на всех этапах образования.",
         'uz':"Anjuman ta'limining barcha bosqichlarida nemis tilini o'qitish jarayoni eng so'nggi tadqiqot tajribalari, shungindek, raqamli texnologiyalar soxasidagi ilg'or xorijiy va milliy tajribani jo'riy natijalarini o'z ichiga oladi",
         'de':"Die Aufgaben der Konferenz sind: Reflexion relevanter Themen und Probleme der modernen Fremdsprachenpädagogik- und Methodik. Die Konferenz präsentiert die Ergebnisse der Einführung von neuesten Lehrprogrammen sowie fortgeschrittene ausländische und inländische Erfahrungen im Bereich der digitalen Technologien im DaF-Unterricht in allen Bildungsstufen."
     },
     '14':{
         'ru':"Где",
         'uz':'Qayerda',
-        'de':'Woher'
+        'de':'Wo'
     },
     '15':{
         'ru':"Онлайн",
@@ -100,13 +100,13 @@ const langArr = {
         'de':"Unsere Referenten"
     },
     '20':{
-        'ru':"Руководитель направления магистратуры  Немецкий как иностранный/ немецкий как второй язык, Университет Ёханнеса Гуттенбера, Майнц",
+        'ru':"Руководитель направления магистратуры  Немецкий как иностранный/ немецкий как второй язык, Университет Ёханнеса Гуттенберга, Майнц",
         'uz':"Mayns, Yoxannes  Guttenberg Universiteti, Nemis tili ikkinchi chet tili sifatida  Magistratura bo‘limi boshlig‘i",
         'de':"Leiterin des Masterstudiengangs Deutsch als Fremdsprache / Deutsch als Zweitsprache, JGU Mainz"
     },
     '21':{
-        'ru':"Главный редактор учебников Немецкий как иностранный в издательстве Ernst Klett Sprachen в Мюнхене / Штутгарте",
-        'uz':"Myunxen/ Shtuttgartdagi Ernst Klett Sprachen nashriyoti nemis tili chet tili sifatida darsliklarining bosh muharriri",
+        'ru':"Представитель издательства Клетт",
+        'uz':"Klett nashriyot vakili",
         'de':"Redaktionsleiter für die Lehrwerke Deutsch als Fremdsprache bei Ernst Klett Sprachen in München/Stuttgart"
     },
     '22':{
@@ -115,9 +115,9 @@ const langArr = {
         'de':"DAAD-Lektor, Nationale Universität Usbekistans"
     },
     '23':{
-        'ru':"g.a.s.t-Академия, Гемания",
-        'uz':"g.a.s.t-Akademiya, Germaniya",
-        'de':"g.a.s.t-Akademie, Deutschland"
+        'ru':"Test-DaF Institut g.a.s.t.",
+        'uz':"Test-DaF Institut g.a.s.t.",
+        'de':"Test-DaF Institut g.a.s.t."
     },
     '24':{
         'ru':"Лектор ДААД, Самаркандский государственный институт иностранных языков",
@@ -135,9 +135,9 @@ const langArr = {
         'de':'Agenda'
     },
     '27':{
-        'ru':"Наш план действий",
+        'ru':"план мероприятия",
         'uz':"Bizning tadbirlar rejasi",
-        'de':"Unser Aktionsplan"
+        'de':"Veranstaltungsablauf"
     },
     '28':{
         'ru':"Первый день",
@@ -165,7 +165,7 @@ const langArr = {
         'de':'Online'
     },
     '33':{
-        'ru':"Процесс обучения немецкому языку на всех этапах конференционного обучения включает в себя результаты новейшего исследовательского опыта, а также внедрение передового зарубежного и отечественного опыта в области цифровых технологий.",
+        'ru':"Целью конференции являются отражение актуальной тематики и проблематики современной педагогики, презентация новейших технических и учебно-методических достижений в сфере образования. В рамках конференции будут представлены результаты внедрения новейших исследований, а также передового зарубежного и отечественного опыта в области цифровых технологий в процесс обучения немецкому языку на всех этапах образования.",
         'uz':"Anjuman ta'limining barcha bosqichlarida nemis tilini o'qitish jarayoni eng so'nggi tadqiqot tajribalari, shungindek, raqamli texnologiyalar soxasidagi ilg'or xorijiy va milliy tajribani jo'riy natijalarini o'z ichiga oladi",
         'de':"Die Aufgaben der Konferenz sind: Reflexion relevanter Themen und Probleme der modernen Fremdsprachenpädagogik- und Methodik. Die Konferenz präsentiert die Ergebnisse der Einführung von neuesten Lehrprogrammen sowie fortgeschrittene ausländische und inländische Erfahrungen im Bereich der digitalen Technologien im DaF-Unterricht in allen Bildungsstufen."
     },
@@ -215,7 +215,7 @@ const langArr = {
         'de':"Email"
     },
     '43':{
-        'ru':"Процесс обучения немецкому языку на всех этапах конференционного обучения включает в себя результаты новейшего исследовательского опыта, а также внедрение передового зарубежного и отечественного опыта в области цифровых технологий.",
+        'ru':"Целью конференции являются отражение актуальной тематики и проблематики современной педагогики, презентация новейших технических и учебно-методических достижений в сфере образования. В рамках конференции будут представлены результаты внедрения новейших исследований, а также передового зарубежного и отечественного опыта в области цифровых технологий в процесс обучения немецкому языку на всех этапах образования.",
         'uz':"Anjuman ta'limining barcha bosqichlarida nemis tilini o'qitish jarayoni eng so'nggi tadqiqot tajribalari, shungindek, raqamli texnologiyalar soxasidagi ilg'or xorijiy va milliy tajribani jo'riy natijalarini o'z ichiga oladi.",
         'de':"Die Aufgaben der Konferenz sind: Reflexion relevanter Themen und Probleme der modernen Fremdsprachenpädagogik- und Methodik. Die Konferenz präsentiert die Ergebnisse der Einführung von neuesten Lehrprogrammen sowie fortgeschrittene ausländische und inländische Erfahrungen im Bereich der digitalen Technologien im DaF-Unterricht in allen Bildungsstufen."
     },
@@ -275,9 +275,9 @@ const langArr = {
         'de':"Kontakt"
     },
     '55':{
-        'ru':"Введение",
-        'uz':"Kirish qismi",
-        'de':"Grußworte"
+        'ru':"Церемония открытия",
+        'uz':"Ochilish marosimi",
+        'de':"Eröffnungszeremonie"
     },
     '56':{
         'ru':"Войти через Zoom",
@@ -300,8 +300,8 @@ const langArr = {
         'de':"Hochschulministerium der Republik Usbekistan"
     },
     '60':{
-        'ru':"И.о.Директора Агентства по популяризации изучения иностранных языков при Кабинете Министров Республики Узбекистан",
-        'uz':"O‘zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Хorijiy tillarni o‘rganishni ommalashtirish agentligi direktori в.в.б.",
+        'ru':"И.о.Директора Агентство по популяризации изучения иностранных языков при Кабинете Министров Республики Узбекистан",
+        'uz':"O‘zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Хorijiy tillarni o‘rganishni ommalashtirish agentligi direktori v.v.b.",
         'de':"Stellvertretender Direktor der Agentur für die Förderung des Fremdsprachenerwerbs bei dem Ministerkabinett der Republik Usbekistan"
     },
     '61':{
@@ -457,18 +457,18 @@ const langArr = {
         'de':"Eintreten"
     },
     '91':{
-        'ru':"Два зайца одним выстрелом или концепция CLIL в начальном образовании",
-        'uz':"",
+        'ru':"Концепция CLIL на уроках немецкого языка",
+        'uz':"Nemis tili darslarida CLIL konsepti",
         'de':"Zwei Fliegen mit einer Klappe oder das CLIL-Konzept im Primarunterricht"
     },
     '92':{
         'ru':"",
-        'uz':"",
+        'uz':"Qarshidagi 'quyoshli' maktabi",
         'de':"Die Sonnenschule und PASCH"
     },
     '93':{
-        'ru':"",
-        'uz':"",
+        'ru':"Стиль CLIL на уроках немецкого языка в школе",
+        'uz':"Maktabdagi nemis tili mashulotlarida CLIL uslubi",
         'de':"CLIL und DaF Unterricht in der Schule"
     },
     '94':{
@@ -487,23 +487,23 @@ const langArr = {
         'de':"Eintreten"
     },
     '97':{
-        'ru':"",
-        'uz':"",
+        'ru':"Образовательный проект Гёте-института «ПрофиУни».",
+        'uz':"'ProfiUni' Gyote institutining ta'lim loyihasi",
         'de':"Internationalisierung der Berufsbildung, Berufe der Zukunft. Vorstellung des Bildungsprojekts „ProfiUni“"
     },
     '98':{
-        'ru':"",
-        'uz':"",
-        'de':"„Mein Beruf – meine Zukunft“ – Vorstellung des Portals"
+        'ru':"Презентация портала www.profnavigator.uz",
+        'uz':"www.profnavigator.uz portali taqdimoti",
+        'de':"„Mein Beruf – meine Zukunft“ – Vorstellung des Portals www.profnavigator.uz"
     },
     '99':{
         'ru':"",
-        'uz':"",
+        'uz':"Kasbga yo'naltirilgan nemis tili",
         'de':"Berufssprache Deutsch"
     },
     '100':{
         'ru':"",
-        'uz':"",
+        'uz':"Nemis tili bilan kasbga yo'naltirish loyihasi",
         'de':"Arbeit in Tridem bei der Berufsorientierung in der Schule: Vorstellung der Projekte"
     },
     '101':{
@@ -523,22 +523,22 @@ const langArr = {
     },
     '104':{
         'ru':"Dhoch3 – учебные модули для подготовки учителей  немецкого языка в университетах мира",
-        'uz':"",
+        'uz':"Dhoch3 – OTM larda bo‘lajak nemis tili o‘qituvchilari uchun modul",
         'de':"„Dhoch3 - Studienmodule für die Deutschlehrer-Ausbildung an Hochschulen weltweit“"
     },
     '105':{
         'ru':"Научная работа.",
-        'uz':"Ilmiy ishlar.",
+        'uz':"Ilmiy ish yozish prinsiplari.",
         'de':"Wissenschaftliches Arbeiten."
     },
     '106':{
         'ru':"«Региональные мобильные группы: цели и задачи»",
-        'uz':"Hududiy mobil guruhlar: maqsad va vazifalar",
+        'uz':"“Regionale Mobilgruppen: Ziele und Aufgaben”",
         'de':"“Regionale Mobilgruppen: Ziele und Aufgaben”"
     },
     '107':{
-        'ru':"",
-        'uz':"",
+        'ru':"Использование DLL-современных образовательных программ в вузах Узбекистана",
+        'uz':"DLL-zamonaviy taʼlim dasturidan O‘zbekistondagi OTM larda foydalanish",
         'de':"DLL Implementierung ins Curriculum der Hochschulen Usbekistans"
     },
     '108':{
