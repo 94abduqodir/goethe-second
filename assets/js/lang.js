@@ -17,7 +17,7 @@ const langArr = {
     '3':{
         'ru':"Разгаворшик",
         'uz':'Ma\'ruzachilar',
-        'de':'Lautsprecher'
+        'de':'Referenten'
     },
     '4':{
         'ru':"Повестка дня",
@@ -27,7 +27,7 @@ const langArr = {
     '5':{
         'ru':"Место проведения",
         'uz':'Konferensiya joyi',
-        'de':'Vernastaltungsort'
+        'de':'Varanstaltungsort'
     },
     '6':{
         'ru':"Галерея",
@@ -92,7 +92,7 @@ const langArr = {
     '18':{
         'ru':"Спикеры мероприятия",
         'uz':"Tadbir ma'ruzachilari",
-        'de':"Sprecher der Veranstaltung"
+        'de':"Keynotespeaker der Veranstaltung"
     },
     '19':{
         'ru':"Наши спикеры",
@@ -100,34 +100,34 @@ const langArr = {
         'de':"Unsere Referenten"
     },
     '20':{
-        'ru':"Требования урока немецкого языка – цифровизация",
-        'uz':"Nemis tili darslarida qoʼyiladigan talablar - Raqamlashtirish",
-        'de':"Herausforderungen des DaF-Unterrichts - die Digitalisierung"
+        'ru':"Руководитель направления магистратуры  Немецкий как иностранный/ немецкий как второй язык, Университет Ёханнеса Гуттенбера, Майнц",
+        'uz':"Mayns, Yoxannes  Guttenberg Universiteti, Nemis tili ikkinchi chet tili sifatida  Magistratura bo‘limi boshlig‘i",
+        'de':"Leiterin des Masterstudiengangs Deutsch als Fremdsprache / Deutsch als Zweitsprache, JGU Mainz"
     },
     '21':{
-        'ru':"Современные обучающие программы и цифровые технологии обучения для урока немецкого языка в дошкольном, начальном, среднем и высшем образовании",
-        'uz':"Bogʼcha-maktab-oliy taʼlim tizimida zamonaviy taʼlim dasturlari va raqamli texnoligiyalari",
-        'de':"Moderne Lehrprogramme und digitale Technologien für den Deutschunterricht im Elementar-, Primar-, Sekundarbereich sowie in der Hochschulbildung"
+        'ru':"Главный редактор учебников Немецкий как иностранный в издательстве Ernst Klett Sprachen в Мюнхене / Штутгарте",
+        'uz':"Myunxen/ Shtuttgartdagi Ernst Klett Sprachen nashriyoti nemis tili chet tili sifatida darsliklarining bosh muharriri",
+        'de':"Redaktionsleiter für die Lehrwerke Deutsch als Fremdsprache bei Ernst Klett Sprachen in München/Stuttgart"
     },
     '22':{
-        'ru':"Научная работа",
-        'uz':"Ilmiy ish",
-        'de':"Wissenschaftliches Arbeiten"
+        'ru':"Лектор ДААД, Национальный университет Узбекистана",
+        'uz':"O‘zbekiston Milliy Universiteti, DAAD- Lektori",
+        'de':"DAAD-Lektor, Nationale Universität Usbekistans"
     },
     '23':{
-        'ru':"Обзор цифрового формата экзамена TestDaF",
-        'uz':"TestDaF raqamli imtihon formatining yangi ko'rinishi",
-        'de':"Der digitale TestDaF im Überblick "
+        'ru':"g.a.s.t-Академия, Гемания",
+        'uz':"g.a.s.t-Akademiya, Germaniya",
+        'de':"g.a.s.t-Akademie, Deutschland"
     },
     '24':{
-        'ru':"Цифровые инструменты в онлайн-обучении",
-        'uz':"Onlayn o'qishning raqamli vositalari",
-        'de':"Digitale Werkzeuge im (Online-) Unterricht"
+        'ru':"Лектор ДААД, Самаркандский государственный институт иностранных языков",
+        'uz':"DAAD o'qituvchisi, Samarqand davlat chet tillari instituti",
+        'de':"DAAD-Lektor, Staatliches Fremdspracheninstitut Samarkand"
     },
     '25':{
-        'ru':"Литературно читать литературу",
-        'uz':"Adabiy o'qiladigan adabiyot",
-        'de':"Literatur literarisch lesen"
+        'ru':"Лектор ДААД, Ферганский государственный университет",
+        'uz':"DAAD o'qituvchisi, Farg'ona davlat universiteti",
+        'de':"DAAD-Lektor, Staatliche Universität Fergana"
     },
     '26':{
         'ru':"Повестка дня",
@@ -142,12 +142,12 @@ const langArr = {
     '28':{
         'ru':"Первый день",
         'uz':"Birinchi kun",
-        'de':"Tag 1"
+        'de':"1.Tag"
     },
     '29':{
         'ru':"Второй день",
         'uz':"Ikkinchi kun",
-        'de':"Tag 2"
+        'de':"2.Tag"
     },
     '30':{
         'ru':"Адрес конференции",
@@ -290,24 +290,24 @@ const langArr = {
         'de':"Eintreten"
     },
     '58':{
-        'ru':"",
+        'ru':"Постоянный представитель Посольства Федеративной Республики Германия в Узбекистане",
         'uz':"Germanya Federativ Respublikasining O'zbekistondagi elchixonasi doimiy vakili",
-        'de':""
+        'de':"Ständige Vertreterin, Botschaft der Bundesrepublik Deutschland in Usbekistan"
     },
     '59':{
-        'ru':"Министерство высшего и среднего специального образования Республики Узбекистан",
+        'ru':"Министерство высшего и среднего специального  образования Республики Узбекистан",
         'uz':"O'zbekiston Respublikasi Oliy va o'rta maxsus ta'lim vazirligi",
-        'de':""
+        'de':"Hochschulministerium der Republik Usbekistan"
     },
     '60':{
-        'ru':"Агентства по популяризации изучения иностранных языков",
-        'uz':"Xorijiy tillarni o'rganishni ommalshtirish agentligi direktori",
-        'de':""
+        'ru':"И.о.Директора Агентства по популяризации изучения иностранных языков при Кабинете Министров Республики Узбекистан",
+        'uz':"O‘zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Хorijiy tillarni o‘rganishni ommalashtirish agentligi direktori в.в.б.",
+        'de':"Stellvertretender Direktor der Agentur für die Förderung des Fremdsprachenerwerbs bei dem Ministerkabinett der Republik Usbekistan"
     },
     '61':{
         'ru':"Министерство народного образования Республики Узбекистан",
-        'uz':"O'zbekiston Respublikasi Xalq ta'lim vazirligi",
-        'de':""
+        'uz':"O'zbekiston Respublikasi Xalq ta'limi vazirligi",
+        'de':"Volksbildungsministerium der Republik Usbekistan"
     },
     '62':{
         'ru':"Лектор ДААД, Национальный университет Узбекистана",
@@ -315,9 +315,9 @@ const langArr = {
         'de':"DAAD-Lektor, Nationale Universität Usbekistans"
     },
     '63':{
-        'ru':"Директор Института Гёте в Узбекистане",
+        'ru':"Директор Гете-Института в Узбекистане",
         'uz':"O'zbekistondagi Gyote instituti direktori",
-        'de':""
+        'de':"Direktor des Goethe-Instituts in Usbekistan"
     },
     '64':{
         'ru':"Обзор цифрового формата экзамена TestDaF",
@@ -540,6 +540,51 @@ const langArr = {
         'ru':"",
         'uz':"",
         'de':"DLL Implementierung ins Curriculum der Hochschulen Usbekistans"
+    },
+    '108':{
+        'ru':"Модератор",
+        'uz':"Moderator",
+        'de':"Moderatorin"
+    },
+    '109':{
+        'ru':"Модератор",
+        'uz':"Moderator",
+        'de':"Moderatorin"
+    },
+    '110':{
+        'ru':"Модератор",
+        'uz':"Moderator",
+        'de':"Moderatorin"
+    },
+    '111':{
+        'ru':"Модератор",
+        'uz':"Moderator",
+        'de':"Moderatorin"
+    },
+    '112':{
+        'ru':"Модератор",
+        'uz':"Moderator",
+        'de':"Moderatorin"
+    },
+    '113':{
+        'ru':"Модератор",
+        'uz':"Moderator",
+        'de':"Moderatorin"
+    },
+    '114':{
+        'ru':"Модератор",
+        'uz':"Moderator",
+        'de':"Moderatorin"
+    },
+    '115':{
+        'ru':"Модератор",
+        'uz':"Moderator",
+        'de':"Moderatorin"
+    },
+    '116':{
+        'ru':"Модератор",
+        'uz':"Moderator",
+        'de':"Moderatorin"
     },
 }
 
