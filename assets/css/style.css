@@ -188,6 +188,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
+.speaker-zoom img{
+  width: 50px;
+}
+.speaker-zoom-in{
+  padding-left: 7px;
+}
+
 /*--------------------------------------------------------------
 # Buy Tickets
 --------------------------------------------------------------*/
@@ -663,6 +671,28 @@ select{
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+.btnn{
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 19px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 10px;
+  color: #fff;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  border: 2px solid #f82249;
+}
+
+.btnn:hover {
+  background: #f82249;
+  color: #fff;
+}
+
 #about {
   background: url("../img/about-bg.jpg");
   background-size: cover;
