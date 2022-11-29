@@ -85,9 +85,9 @@ const langArr = {
         'de':"Wann"
     },
     '17':{
-        'ru':"13.-14.Oktober",
-        'uz':"13-14 oktabr",
-        'de':"13.-14.Oktober"
+        'ru':"",
+        'uz':"",
+        'de':""
     },
     '18':{
         'ru':"Спикеры мероприятия",
@@ -591,6 +591,12 @@ const langArr = {
         'uz':"Anjuman dasturi",
         'de':"Konferenzprogramm"
     },
+    // '118':{
+    //     'ru':"das Formular",
+    //     'uz':"So'rovnoma",
+    //     'de':"das Formular"
+    // },
+    
     '118':{
         'ru':"Сертификат",
         'uz':"Sertifikat",
@@ -676,7 +682,7 @@ const langArr = {
         'uz':"O'zbekistondagi Gyote-Instituti rasmiy sahifasi",
         'de':"Die offizielle Website des Goethe-Instituts in Usbekistan"
     },
-    '135':{
+     '135':{
         'ru':"ABSCHLIESSENDE EVALUATION",
         'uz':"YOPILISH MAROSIMI",
         'de':"ABSCHLIESSENDE EVALUATION"
@@ -694,7 +700,7 @@ const langArr = {
 '14':{
     'ru':"",
     'uz':"",
-    'de':"ABSCHLIESSENDE EVALUATION"
+    'de':""
 },
 */
 
