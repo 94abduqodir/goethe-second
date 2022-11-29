@@ -26,7 +26,7 @@ const langArr = {
     },
     '5':{
         'ru':"Место проведения",
-        'uz':'Konferensiya joyi',
+        'uz':'Anjuman joyi',
         'de':'Varanstaltungsort'
     },
     '6':{
@@ -61,7 +61,7 @@ const langArr = {
     },
     '12':{
         'ru':"О конференции",
-        'uz':'Konferensiya haqida',
+        'uz':'Anjuman haqida',
         'de':'Über die Konferenz'
     },
     '13':{
@@ -85,9 +85,9 @@ const langArr = {
         'de':"Wann"
     },
     '17':{
-        'ru':"",
+        'ru':"13.-14.Oktober",
         'uz':"13-14 oktabr",
-        'de':""
+        'de':"13.-14.Oktober"
     },
     '18':{
         'ru':"Спикеры мероприятия",
@@ -115,20 +115,20 @@ const langArr = {
         'de':"Redakteurin, PASCH-net"
     },
     '23':{
-        'ru':"Social-Media-Managerin, PASCH-net.",
-        'uz':"Social-Media-Menejeri, PASCH-net",
-        'de':"Social-Media-Managerin, PASCH-net."
+        'ru':"Goethe-Institut Moskau",
+        'uz':"Moskva Gyote-Instituti",
+        'de':"Goethe-Institut Moskau"
     },
-    '24':{
-        'ru':"Лектор ДААД, Самаркандский государственный институт иностранных языков",
-        'uz':"DAAD o'qituvchisi, Samarqand davlat chet tillari instituti",
-        'de':"DAAD-Lektor, Staatliches Fremdspracheninstitut Samarkand"
-    },
-    '25':{
-        'ru':"Лектор ДААД, Ферганский государственный университет",
-        'uz':"DAAD o'qituvchisi, Farg'ona davlat universiteti",
-        'de':"DAAD-Lektor, Staatliche Universität Fergana"
-    },
+    // '24':{
+    //     'ru':"Лектор ДААД, Самаркандский государственный институт иностранных языков",
+    //     'uz':"DAAD o'qituvchisi, Samarqand davlat chet tillari instituti",
+    //     'de':"DAAD-Lektor, Staatliches Fremdspracheninstitut Samarkand"
+    // },
+    // '25':{
+    //     'ru':"Лектор ДААД, Ферганский государственный университет",
+    //     'uz':"DAAD o'qituvchisi, Farg'ona davlat universiteti",
+    //     'de':"DAAD-Lektor, Staatliche Universität Fergana"
+    // },
     '26':{
         'ru':"Повестка дня",
         'uz':'Kun tartibi',
@@ -151,12 +151,12 @@ const langArr = {
     },
     '30':{
         'ru':"Адрес конференции",
-        'uz':"Konferensiya manzili",
+        'uz':"Anjuman manzili",
         'de':"Konferenzadresse"
     },
     '31':{
         'ru':"Информация об адресе конференции",
-        'uz':"Konferensiya manzili haqida ma'lumot",
+        'uz':"Anjuman manzili haqida ma'lumot",
         'de':"Informationen zur Konferenzadresse"
     },
     '32':{
@@ -206,12 +206,12 @@ const langArr = {
     },
     '41':{
         'ru':"Номер телефона",
-        'uz':"Telefon nomer",
+        'uz':"Telefon raqam",
         'de':"Telefonnummer"
     },
     '42':{
         'ru':"Эл. адрес",
-        'uz':"Elektron pochta",
+        'uz':"Elektron manzil",
         'de':"Email"
     },
     '43':{
@@ -290,9 +290,9 @@ const langArr = {
         'de':"Eintreten"
     },
     '58':{
-        'ru':"Постоянный представитель Посольства Федеративной Республики Германия в Узбекистане",
-        'uz':"Germanya Federativ Respublikasining O'zbekistondagi elchixonasi doimiy vakili",
-        'de':"Ständige Vertreterin, Botschaft der Bundesrepublik Deutschland in Usbekistan"
+        'ru':"Botschafter der Bundesrepublik Deutschland in Usbekistan",
+        'uz':"Germanya Federativ Respublikasining O'zbekistondagi Favqulodda va muxtor elchisi",
+        'de':"Botschafter der Bundesrepublik Deutschland in Usbekistan"
     },
     '59':{
         'ru':"Министерство высшего и среднего специального  образования Республики Узбекистан",
@@ -310,20 +310,20 @@ const langArr = {
         'de':"Volksbildungsministerium der Republik Usbekistan"
     },
     '62':{
-        'ru':"Лектор ДААД, Национальный университет Узбекистана",
-        'uz':"O'zbekiston Milliy universiteti, DAAD- Lektori",
-        'de':"DAAD-Lektor, Nationale Universität Usbekistans"
+        'ru':"Войти через Zoom",
+        'uz':"Zoom orqali kirish",
+        'de':"Mit Zoom"
     },
     '63':{
-        'ru':"Директор Гете-Института в Узбекистане",
-        'uz':"O'zbekistondagi Gyote instituti direktori",
-        'de':"Direktor des Goethe-Instituts in Usbekistan"
+        'ru':"Goethe-Institut in Usbekistan",
+        'uz':"O'zbekistondagi Gyote instituti",
+        'de':"Goethe-Institut in Usbekistan"
     },
-    '64':{
-        'ru':"Обзор цифрового формата экзамена TestDaF",
-        'uz':"TestDaF raqamli imtihon formatining yangi ko'rinishi",
-        'de':"Der digitale TestDaF im Überblick "
-    },
+    // '64':{
+    //     'ru':"Обзор цифрового формата экзамена TestDaF",
+    //     'uz':"TestDaF raqamli imtihon formatining yangi ko'rinishi",
+    //     'de':"Der digitale TestDaF im Überblick "
+    // },
     '65':{
         'ru':"Allgemeinsprache - Berufssprache - Fachsprache - der fließende Übergang",
         'uz':"Umumiy til - professional til - texnik til – oson o'tish",
@@ -347,9 +347,9 @@ const langArr = {
     },
 
     '69':{
-        'ru':"Секция 1",
-        'uz':"1-Bo'lim",
-        'de':"Sektion 1"
+        'ru':"Sprachkursangebot des GI: digital/präsenz",
+        'uz':"Gyote Institutining onlayn va offlayn kurslari",
+        'de':"Sprachkursangebot des GI: digital/präsenz"
     },
     '70':{
         'ru':"Войти через Zoom",
@@ -362,9 +362,9 @@ const langArr = {
         'de':"Eintreten"
     },
     '72':{
-        'ru':"Секция 2",
-        'uz':"2-Bo'lim",
-        'de':"Sektion 2"
+        'ru':"Prüfungen des GI: digital/präsenz",
+        'uz':"Gyote Institutining raqamli imtihonlari",
+        'de':"Prüfungen des GI: digital/präsenz"
     },
     '73':{
         'ru':"Войти через Zoom",
@@ -377,9 +377,9 @@ const langArr = {
         'de':"Eintreten"
     },
     '75':{
-        'ru':"Секция 3",
-        'uz':"3-Bo'lim",
-        'de':"Sektion 3"
+        'ru':"Forschung in Deutschland",
+        'uz':"Germaniyada tadqiqot ",
+        'de':"Forschung in Deutschland"
     },
     '76':{
         'ru':"Войти через Zoom",
@@ -392,9 +392,9 @@ const langArr = {
         'de':"Eintreten"
     },
     '78':{
-        'ru':"Секция 4",
-        'uz':"4-Bo'lim",
-        'de':"Sektion 4"
+        'ru':"Bildungsprojekte des GI",
+        'uz':"Gyote Institutining ta‘lim loyihalari",
+        'de':"Bildungsprojekte des GI"
     },
     '79':{
         'ru':"Войти через Zoom",
@@ -422,9 +422,9 @@ const langArr = {
         'de':"Eintreten"
     },
     '84':{
-        'ru':"",
-        'uz':"",
-        'de':""
+        'ru':"Die Angebote des Goethe-Instituts für Deutschlehrer*innenaus- und -fortbildung",
+        'uz':"Pedagog kadrlarni malakasini oshirish tizimida Gyote Institutining dasturlari",
+        'de':"Die Angebote des Goethe-Instituts für Deutschlehrer*innenaus- und -fortbildung"
     },
     '85':{
         'ru':"Dhoch3 in der Deutschlehrer*innenaus- und-fortbildung",
@@ -432,14 +432,14 @@ const langArr = {
         'de':"Dhoch3 in der Deutschlehrer*innenaus- und-fortbildung"
     },
     '86':{
-        'ru':"Die Bedeutung der digitalen Medien bei der Entwicklung der interkulturellen Kompetenz bei DaF-Lernern",
-        'uz':"Nemis tilini xorijiy til sifatida o’rganuvchilarda madaniyatlararo muloqot kompetensiyasini shakllantirishda raqamli texnologiyalarning ahamiyati",
-        'de':"Die Bedeutung der digitalen Medien bei der Entwicklung der interkulturellen Kompetenz bei DaF-Lernern"
+        'ru':"Implementierung der DLL-Inhalte in den usbekischen Partneruniversitäten",
+        'uz':"O’zbekiston ta’lim tizimiga DLL-dasturlarini kiritish",
+        'de':"Implementierung der DLL-Inhalte in den usbekischen Partneruniversitäten"
     },
     '87':{
-        'ru':"Мультимедийные ресурсы школьных учебных центров Узбекистана",
-        'uz':"O'zbekistondagi maktab o'quv markazlarining multimediya resurslar",
-        'de':"Multimediale Ressourcen der Schullehrwerken in Usbekistan"
+        'ru':"Implementierung der DLL-Inhalte in den usbekischen Partneruniversitäten",
+        'uz':"O’zbekiston ta’lim tizimiga DLL-dasturlarini kiritish",
+        'de':"Implementierung der DLL-Inhalte in den usbekischen Partneruniversitäten"
     },
     '88':{
         'ru':"Секция 2",
@@ -457,19 +457,19 @@ const langArr = {
         'de':"Eintreten"
     },
     '91':{
-        'ru':"Digitale Lehrwerke und Unterrichstplaner – Perfekt für Präsenz-, Hybrid- und Onlineunterricht",
-        'uz':"Raqamli darsliklar va dars rejalari – Perfekt Offlayn-, Gibrid- va Onlayn darslar uchun ",
-        'de':"Digitale Lehrwerke und Unterrichstplaner – Perfekt für Präsenz-, Hybrid- und Onlineunterricht"
+        'ru':"Digitale Lehrwerke und Unterrichstplaner– Perfekt für Präsenz-, Hybrid- und Onlineunterricht",
+        'uz':"Raqamli darsliklar va dars rejalari – Offlayn-, Gibrid- va Onlayn darslar uchun ",
+        'de':"Digitale Lehrwerke und Unterrichstplaner– Perfekt für Präsenz-, Hybrid- und Onlineunterricht"
     },
     '92':{
         'ru':"Instagram im DaF-Unterricht.",
-        'uz':"Social-Media-Menejeri",
+        'uz':"Nemis tili darslarida Instagram",
         'de':"Instagram im DaF-Unterricht."
     },
     '93':{
-        'ru':"Lehrwerke für die Schulen und ihre mediale Begleitung",
-        'uz':"Nemis tili darsliklari va ularning media–komponentlari",
-        'de':"Lehrwerke für die Schulen und ihre mediale Begleitung"
+        'ru':"Digitale Wörterbücher für den DaF-Unterricht in der Schule",
+        'uz':"Raqamli lug’at mobil ilovalari nemis tili darslari uchun",
+        'de':"Digitale Wörterbücher für den DaF-Unterricht in der Schule"
     },
     '94':{
         'ru':"Секция 3",
@@ -492,19 +492,19 @@ const langArr = {
         'de':"Berufssprachkurse in Deutschland. Beispiele aus der Praxis"
     },
     '98':{
-        'ru':"Презентация портала www.profnavigator.uz",
-        'uz':"www.profnavigator.uz portali taqdimoti",
-        'de':"„Mein Beruf – meine Zukunft“ – Vorstellung des Portals www.profnavigator.uz"
+        'ru':"Digitale ProfiUni und deren Didaktisierungen",
+        'uz':"Raqamli Profiuni va uning didaktik materiallari",
+        'de':"Digitale ProfiUni und deren Didaktisierungen"
     },
     '99':{
-        'ru':"“Pflege und Deutsch”",
-        'uz':"“Pflege und Deutsch”",
-        'de':"“Pflege und Deutsch”"
+        'ru':"Über die Maßnahmen zur Einführung des „Berufsorientierungssystems“ in Bildungseinrichtungen ab dem Schuljahr 2022/2023",
+        'uz':"2022-2023 o’quv yilldan ta'lim muassasalarida Kasbga yo'naltirish tizimini kiritish bo‘yicha amalga oshirilayotgan chora-tadbirlar to’g’risida",
+        'de':"Über die Maßnahmen zur Einführung des „Berufsorientierungssystems“ in Bildungseinrichtungen ab dem Schuljahr 2022/2023"
     },
     '100':{
-        'ru':"Kollaborative Arbeit in der Schule: Berufsorientierung mit Deutsc",
+        'ru':"Kollaborative Arbeit in der Schule: Berufsorientierung mit Deutsch",
         'uz':"Hamkorlikdagi sifatli ta’lim – kelajakdagi muvvafaqiyat garovi: nemis tili bilan kasbga yoʼnaltirish",
-        'de':"Kollaborative Arbeit in der Schule: Berufsorientierung mit Deutsc"
+        'de':"Kollaborative Arbeit in der Schule: Berufsorientierung mit Deutsch"
     },
     '101':{
         'ru':"Секция 4",
@@ -522,24 +522,24 @@ const langArr = {
         'de':"Eintreten"
     },
     '104':{
-        'ru':"CLIL und MINT im DaF Unterricht",
-        'uz':"CLIL va MINT nemis tili darslarida",
-        'de':"CLIL und MINT im DaF Unterricht"
+        'ru':"Umsetzung CLIL und MINT Projekte in den Schulen Usbekistans",
+        'uz':"CLIL va MINT loyihalari O’zbekiston maktablarida",
+        'de':"Umsetzung CLIL und MINT Projekte in den Schulen Usbekistans"
     },
     '105':{
-        'ru':"Научная работа.",
-        'uz':"Ilmiy ish yozish prinsiplari.",
-        'de':"Wissenschaftliches Arbeiten."
+        'ru':"CLIL macht im Unterricht Stil (Praktische Tipps)",
+        'uz':"CLIL – nemis tili darslarida zamonaviy usul (amaliy tavsiyalar)",
+        'de':"CLIL macht im Unterricht Stil (Praktische Tipps)"
     },
     '106':{
-        'ru':"«Региональные мобильные группы: цели и задачи»",
-        'uz':"“Regionale Mobilgruppen: Ziele und Aufgaben”",
-        'de':"“Regionale Mobilgruppen: Ziele und Aufgaben”"
+        'ru':"CLIL und MINT im DaF Unterricht in Usbekistan",
+        'uz':"CLIL va MINT nemis tili darslarida",
+        'de':"CLIL und MINT im DaF Unterricht in Usbekistan"
     },
     '107':{
-        'ru':"Использование DLL-современных образовательных программ в вузах Узбекистана",
-        'uz':"DLL-zamonaviy taʼlim dasturidan O‘zbekistondagi OTM larda foydalanish",
-        'de':"DLL Implementierung ins Curriculum der Hochschulen Usbekistans"
+        'ru':"Umsetzung CLIL und MINT Projekte in den Schulen Usbekistans",
+        'uz':"CLIL va MINT loyihalari O’zbekiston maktablarida ",
+        'de':"Umsetzung CLIL und MINT Projekte in den Schulen Usbekistans"
     },
     '108':{
         'ru':"Модератор",
@@ -588,7 +588,7 @@ const langArr = {
     },
     '117':{
         'ru':"Программа конференции",
-        'uz':"Konferensiya dasturi",
+        'uz':"Anjuman dasturi",
         'de':"Konferenzprogramm"
     },
     '118':{
@@ -597,14 +597,14 @@ const langArr = {
         'de':"Zertifikat"
     },
     '119':{
-        'ru':"Digitale  Wörterbücher erleichtern Fremdsprachenlernen",
-        'uz':"Nemis tilini o’rganishda raqamli lug’atlarning afzalliklari",
-        'de':"Digitale  Wörterbücher erleichtern Fremdsprachenlernen"
+        'ru':"Digitale Medien im Fremdsprachenunterricht:grundlegende Lernsoftware",
+        'uz':"Nemis tili darslarida raqamli texnologiyalar",
+        'de':"Digitale Medien im Fremdsprachenunterricht:grundlegende Lernsoftware"
     },
     '120':{
-        'ru':"Projektorientiertes Lernen in der Schule",
-        'uz':"Maktablarda loyihaga asoslangan ta'lim ",
-        'de':"Projektorientiertes Lernen in der Schule"
+        'ru':"Tridemprojekte in den Schulen: Berufsorientierung mit Deutsch",
+        'uz':"Maktablardagi Tridem loyihalari: nemis tili bilan kasbga yoʼnaltirish  ",
+        'de':"Tridemprojekte in den Schulen: Berufsorientierung mit Deutsch"
     },
     '121':{
         'ru':"Секция 5",
@@ -612,30 +612,81 @@ const langArr = {
         'de':"Sektion 5"
     },
     '122':{
-        'ru':"",
-        'uz':"",
-        'de':""
+        'ru':"Die Bedeutung der digitalen Medien bei der Entwicklung der interkulturellen Kompetenz bei DaF-Lernern",
+        'uz':"Nemis tilini xorijiy til sifatida o’rganuvchilarda madaniyatlararo muloqot kompetensiyasini shakllantirishda raqamli texnologiyalarning ahamiyati",
+        'de':"Die Bedeutung der digitalen Medien bei der Entwicklung der interkulturellen Kompetenz bei DaF-Lernern"
     },
     '123':{
-        'ru':"„Testen, Prüfen & Prüfungsvorbereitung – Einblicke in die Prüfungsvielfalt und Materialien des Hueber – Verlages zur Vorbereitung“",
+        'ru':"Testen, Prüfen & Prüfungsvorbereitung – Einblicke in die Prüfungsvielfalt und Materialien des Hueber – Verlages zur Vorbereitung",
         'uz':"Sinovlar, imtihonlar & imtihonlarga tayyorlanish: imtihon turlari va Hueber nashriyotning materiallari ",
-        'de':"„Testen, Prüfen & Prüfungsvorbereitung – Einblicke in die Prüfungsvielfalt und Materialien des Hueber – Verlages zur Vorbereitung“"
+        'de':"Testen, Prüfen & Prüfungsvorbereitung – Einblicke in die Prüfungsvielfalt und Materialien des Hueber – Verlages zur Vorbereitung"
     },
     '124':{
-        'ru':"",
-        'uz':"",
-        'de':""
+        'ru':"Lehrwerke für die Schulen und ihre mediale Begleitung",
+        'uz':"Nemis tili darsliklari va ularning media–komponentlari",
+        'de':"Lehrwerke für die Schulen und ihre mediale Begleitung"
     },
     '125':{
         'ru':"Mehrstufiges Prüfungsformat des Testzentrums von Usbekistan",
-        'uz':"Mehrstufiges Prüfungsformat des Testzentrums von Usbekistan",
+        'uz':"O’zbekiston Davlat Test Markazining ko'p bosqichli imtihon formati",
         'de':"Mehrstufiges Prüfungsformat des Testzentrums von Usbekistan"
     },
     '126':{
         'ru':"Tipps für richtiges und schülerfreundliches Korrekturverhalten im mündlichen DaF-Unterricht",
-        'uz':"Tipps für richtiges und schülerfreundliches Korrekturverhalten im mündlichen DaF-Unterricht",
+        'uz':"O’quvchilar uchun mos va to’g’ri xato tuzatish: nemis tili darsi uchun tavsiyalar",
         'de':"Tipps für richtiges und schülerfreundliches Korrekturverhalten im mündlichen DaF-Unterricht"
     },
+    '127':{
+        'ru':"Войти",
+        'uz':"Kirish",
+        'de':"Eintreten"
+    },
+    '128':{
+        'ru':"Arbeit mit der Zeitschrift Lingo MINT und Lingo Global",
+        'uz':"Lingo MINT va Lingo Global gazetalari bilan ishlash",
+        'de':"Arbeit mit der Zeitschrift Lingo MINT und Lingo Global"
+    },
+    '129':{
+        'ru':"Digitale Kompetenz in der Deutschlehrer*innenausbildung",
+        'uz':"Pedagog kadrlarni malakasini oshirishda raqamli ko'nikmalarini rivojlantirish",
+        'de':"Digitale Kompetenz in der Deutschlehrer*innenausbildung"
+    },
+    '130':{
+        'ru':"Nationale Universität / Weltsprachenuniversität",
+        'uz':"O'zMU/ O’zDJTU",
+        'de':"Nationale Universität / Weltsprachenuniversität"
+    },
+    '131':{
+        'ru':"Urgentscher staatliche Universität / Ferganaer staatliche universität ",
+        'uz':"UrDU/ FarDU",
+        'de':"Urgentscher staatliche Universität / Ferganaer staatliche universität "
+    },
+    '132':{
+        'ru':"Digitale  Wörterbücher erleichtern Fremdsprachenlernen",
+        'uz':"Nemis tilini o’rganishda raqamli lug’atlarning afzalliklari",
+        'de':"Digitale  Wörterbücher erleichtern Fremdsprachenlernen"
+    },
+    '133':{
+        'ru':"Volksbildungsministerium Usbekistans",
+        'uz':"O’zbekiston Respublikasi Xalq ta’limi vazirligi vakili",
+        'de':"Volksbildungsministerium Usbekistans"
+    },
+    '134':{
+        'ru':"Die offizielle Website des Goethe-Instituts in Usbekistan",
+        'uz':"O'zbekistondagi Gyote-Instituti rasmiy sahifasi",
+        'de':"Die offizielle Website des Goethe-Instituts in Usbekistan"
+    },
+    '135':{
+        'ru':"ABSCHLIESSENDE EVALUATION",
+        'uz':"YOPILISH MAROSIMI",
+        'de':"ABSCHLIESSENDE EVALUATION"
+    },
+    '136':{
+        'ru':"Войти через Zoom",
+        'uz':"Zoom orqali kirish",
+        'de':"Mit Zoom"
+    },
+    
 }
 
 
@@ -643,7 +694,7 @@ const langArr = {
 '14':{
     'ru':"",
     'uz':"",
-    'de':""
+    'de':"ABSCHLIESSENDE EVALUATION"
 },
 */
 
@@ -652,7 +703,7 @@ const langArr = {
 
 
 const select = document.querySelector('select')
-const allLang = ['uz', 'ru', 'de']
+const allLang = ['uz', 'de']
 
 select.addEventListener('change', changeURLLanguage);
 
